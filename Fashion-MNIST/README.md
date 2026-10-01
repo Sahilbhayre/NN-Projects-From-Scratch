@@ -130,21 +130,6 @@ Fashion-MNIST-Neural-Network-From-Scratch/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/Fashion-MNIST-Neural-Network-From-Scratch.git
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook fashion_mnist_nn.ipynb
-```
-
-Run the cells from top to bottom.
 
 ## 🎯 What I Learned
 

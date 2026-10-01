@@ -107,21 +107,6 @@ MNIST-Neural-Network-From-Scratch/
 └── README.md
 ```
 
-## 🚀 How to Run
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/MNIST-Neural-Network-From-Scratch.git
-```
-
-Open the notebook:
-
-```bash
-jupyter notebook MNIST_Neural_Network.ipynb
-```
-
-Run the cells from top to bottom.
 
 ## 🎯 What I Learned
 
